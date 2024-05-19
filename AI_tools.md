@@ -44,3 +44,5 @@ paste and ask to debug.
 prompt : below is my resume .
 Then , below is job i want to apply for or copy job description. 
 Then, ask for ,acting as cv expert edit and ATS friendly resume .
+
+### check blackbox ai tools 
