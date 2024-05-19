@@ -19,6 +19,7 @@ docs.new
 ### summirise any video, audio, text, ppt, image: 
 `https://www.anysummary.app`
 - Can chat with the uploaded document and chat from the uploaded data
+  
 
 ### AI image generator: 
 canva.com
@@ -27,3 +28,15 @@ canva.com
 face to face presentation: practice for 1min for good results.
 
 `app.yoodli.ai`
+It will give pros and cons ,how to improve, what are the asked questions.
+
+### debug code: 
+`codedamn.com/ai`
+or
+`debugcode.ai`
+paste and ask to debug.
+
+### To clean unclean raw excel data file: 
+`datasquirrel.ai`
+
+### 
