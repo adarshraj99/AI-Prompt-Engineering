@@ -37,6 +37,10 @@ or
 paste and ask to debug.
 
 ### To clean unclean raw excel data file: 
-`datasquirrel.ai`
+`app.datasquirrel.ai`
 
-### 
+### make an ATS (Applicant Tracking System) friendly CV: 
+`chatgpt.com`
+prompt : below is my resume .
+Then , below is job i want to apply for or copy job description. 
+Then, ask for ,acting as cv expert edit and ATS friendly resume .
